@@ -8,4 +8,4 @@ Inspired by [Rapael Faneni](https://twitter.com/raphaelfabeni), I created this `
 
 ### November
 
-* [19-11-2018](2018/november/19-11-2018.md)
+* [19-11-2018 - My first post](2018/november/19-11-2018.md)
