@@ -8,4 +8,4 @@ Inspired by [Rapael Faneni](https://twitter.com/raphaelfabeni), I created this `
 
 ### November
 
-* [19-11-2018 - My first post](2018/november/19-11-2018.md)
+* [:baby_chick: 19-11-2018 - How I started to carry my life to a better one](2018/november/19-11-2018.md)
